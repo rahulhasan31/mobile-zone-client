@@ -1,0 +1,227 @@
+[
+    {
+        
+        "category_name": "Xiaomi",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 488,
+        "title": "Xiaomi 12 Pro",
+        "img": "https://i01.appmifile.com/webfile/globalimg/products/pc/xiaomi-12-pro/pc-section04-slider03.png",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "Xiaomi 12 Pro comes with 6.73 inches Quad HD+ LTPO AMOLED screen. It has a Full-View center punch-hole design. The frontside is protected by a Gorilla Glass Victus. The back camera is of triple 50+50+50 MP with dual-Pixel PDAF, dual-LED flash, 115º ultrawide lens, telephoto camera, OIS, 2x optical zoom, 1/1.28″, 1.22µm, etc."
+      },
+    {
+        
+        "category_name": "Xiaomi",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 500,
+        "title": "Xiaomi 11i",
+        "img": "https://www.mobiledokan.co/wp-content/uploads/2021/10/Xiaomi-11i-Purple-Mist.jpg",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "The Xiaomi 11i is now available in two variants (128/256GB/6/8GB ROM/RAM). Now, the Xiaomi 11i’s Price is 30000 Taka in Bangladesh. Xiaomi 11i has a 5160mAh battery with 67W fast charging. This device is running with Android 11 and is powered by the MediaTek Dimensity 920 5G (6 nm) chipset."
+      },
+    {
+        
+        "category_name": "Xiaomi",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 700,
+        "title": "Redmi Note 10 Pro",
+        "img": "https://www.mobiledokan.com/wp-content/uploads/2021/03/Xiaomi-Redmi-Note-10-Pro-image.jpg",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "Xiaomi Redmi Note 10 Pro comes with 6.67 inches Full HD+ AMOLED or Super AMOLED screen. It has a center punch-hole design on the front. The display is protected by 5th generation Gorilla Glasses. The back camera is of quad 64+8+5+2 or 108+8+5+2 Megapixel with PDAF, ultrawide, depth sensor, dedicated macro camera etc"
+      },
+    {
+        
+        "category_name": "Xiaomi",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 600,
+        "title": "Xiaomi Mi 11",
+        "img": "https://www.mobiledokan.com/wp-content/uploads/2021/01/Xiaomi-Mi-11-image.jpg",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "Xiaomi Mi 11 comes with 6.81 inches Quad HD+ AMOLED screen. It has a punch-hole front camera design. The front side is protected by aGorilla Glass Victus and the backside has a Gorilla Glass or Eco leader options. The back camera is of triple 108+13+5 MP with PDAF, dual-LED flash, ultrawide, macro lens etc. and up to 8K video recording option"
+      },
+      {
+        
+        "category_name":"I Phone",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 600,
+        "title": "iPhone 14 Pro",
+        "img": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Pro-Deep-Purple-2099.jpg",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "iPhone 14 pro gives you an entire new iPhone using experience with a massive upgrade in every aspect from its previous version. A pack of innovative features take it far beyond from any typical smartphone"
+      },
+      {
+        
+        "category_name":"I Phone",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 600,
+        "title": "iPhone 14 Pro Max",
+        "img": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Pro-Max-Deep-Purple-7900.jpg",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "iPhone 14 is a piece of luxury. Its continued legacy of their familiar design pattern started  back in iPhone 12. The body attached together with an endurable aluminum vezel  and the ceramic shield makes it stronger than ever. Buttons, microphones and speakers are perfectly placed."
+      },
+      {
+        
+        "category_name":"I Phone",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 600,
+        "title": "iPhone XS",
+        "img":"https://adminapi.applegadgetsbd.com/storage/media/large/4500-46591.jpg",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "Because it is an  model, the display and design are identical to the one it directly replaces, the iPhone X. The edge-to-edge 5.8-inch OLED display remains spectacular, with the top  filled with sensors the only thing interfering with the design"
+      },
+      {
+        
+        "category_name":"I Phone",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 600,
+        "title": "iPhone 13 Pro",
+        "img":"https://adminapi.applegadgetsbd.com/storage/media/large/3412-96207.jpg",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "iPhone 13 Pro looks remarkably identical to that of the iPhone 12 Pro with two major features: the bigger camera hump as well as, the smaller notch. The first is obvious. Lenses and squares surrounding them are noticeable. The phone isn't flat when placed on a desk or table."
+      },
+      {
+        
+        "category_name":"I Phone",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 600,
+        "title": "iPhone 12 Mini",
+        "img": "https://adminapi.applegadgetsbd.com/storage/media/large/1543-14471.jpg",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "Apple iPhone 13 price in Bangladesh is very reasonable at Apple Gadgets ltd. Apple iPhone 13  is now available in 3 versions 128GB, 256GB and 512GB (RAM/ROM). In the market of Bangladesh, you can find the best cheap rate at Apple"
+      },
+      {
+        
+        "category_name":"I Phone",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 600,
+        "title": "iPhone 7",
+        "img": "https://adminapi.applegadgetsbd.com/storage/media/large/5080-40758.jpg",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "Because it is an  model, the display and design are identical to the one it directly replaces, the iPhone X. The edge-to-edge 5.8-inch OLED display remains spectacular, with the top  filled with sensors the only thing interfering with the design"
+      },
+      {
+        
+        "category_name":"I Phone",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 600,
+        "title": "iPhone 14",
+        "img": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Purple-6116.jpg",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "iPhone 14 is a piece of luxury. Its continued legacy of their familiar design pattern started  back in iPhone 12. The body attached together with an endurable aluminum vezel  and the ceramic shield makes it stronger than ever. Buttons, microphones and speakers are perfectly placed"
+      },
+      {
+        
+        "category_name":"I Phone",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 600,
+        "title": "iPhone 8",
+        "img": "https://adminapi.applegadgetsbd.com/storage/media/large/Silver-1953.jpg",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "The phone has a 6.1inch Super Retina  XDR OLED HDR10 Display which has DOLBY vision and 1200 nits at its peak. It also blows your mind with its 1170 x 2532 pixels resolution  at 460 ppi density. The  display view will be amazing and has supreme clarity."
+      },
+      {
+        
+        "category_name":"Oneplus",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 600,
+        "title": "OnePlus Nord 2",
+        "img": "https://oasis.opstatics.com/content/dam/oasis/page/2021/operation/1110/Nord-2_.png",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "OnePlus Nord 2 5G Warp Charge 65 power adapter  Warp Type-C cable (Support USB 2.0) Phone case Screen protector (pre-applied) SIM tray ejector Welcome letter Quick start guide Safety information and warranty card Highest SAR value"
+      },
+      {
+        
+        "category_name":"Oneplus",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 600,
+        "title": "OnePlus 8",
+        "img": "https://www.mobiledokan.com/wp-content/uploads/2020/04/Oneplus-8-interstellar-glow.jpg",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "OnePlus 8 comes with 6.55 inches Full HD+ Fluid AMOLED screen. It has a punch-hole front camera design. The back camera is of triple 48+16+2 MP with PDAF, OIS, ultrawide, dedicated macro camera, dual-LED flash etc. and Ultra HD video recording. The front camera is of 16 Megapixel. OnePlus 8 comes with 4300 mAh battery with 30W fast charging"
+      },
+      {
+        
+        "category_name":"Oneplus",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 600,
+        "title": "OnePlus 10",
+        "img": "https://www.mobileghor.com/wp-content/uploads/2020/10/OnePlus-8-Green.jpg",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "The OnePlus 10 Pro 5G is a high-end Android-based smartphone manufactured by OnePlus, unveiled on January 11, 2022. Succeeding the OnePlus 9 Pro, the phone also features upgraded cameras developed"
+      },
+      {
+        
+        "category_name":"Oneplus",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 600,
+        "title": "OnePlus 10 Ultra",
+        "img": "https://priceinall.com/wp-content/uploads/2021/12/oneplus-10-pro-price-black-color-600x600.jpg",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34"
+        },
+       
+        "details": "Rumours have been building this year about a potential top-of-the-range new smartphone from OnePlus that brings a periscope camera and plenty of flagship features, tipped to be called the OnePlus 10 Ultra."
+      }
+
+]
